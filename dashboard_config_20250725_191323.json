@@ -1,0 +1,17 @@
+{
+  "dashboard_type": "real_estate_analytics",
+  "created_at": "2025-07-25T19:13:23.112858",
+  "components": {
+    "kpi_cards": true,
+    "price_trends": true,
+    "sales_performance": true,
+    "property_distribution": true,
+    "inventory_tracking": true
+  },
+  "data_sources": [
+    "default_database",
+    "external_api",
+    "csv_imports"
+  ],
+  "refresh_interval": 60
+}

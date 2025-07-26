@@ -1,0 +1,28 @@
+# Real Estate Analytics Framework Dependencies
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization and dashboards
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+dash>=2.0.0
+
+# Statistical analysis
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Database connectivity (included in Python standard library)
+# sqlite3
+
+# Optional: Additional database connectors
+# psycopg2-binary>=2.9.0  # PostgreSQL
+# mysql-connector-python>=8.0.0  # MySQL
+# pymongo>=4.0.0  # MongoDB
+
+# Development and testing
+# pytest>=7.0.0  # For additional testing
+# jupyter>=1.0.0  # For notebook examples
+

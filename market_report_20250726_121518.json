@@ -1,0 +1,204 @@
+{
+  "report_type": "comprehensive_market_report",
+  "region": "all_regions",
+  "generated_at": "2025-07-26T12:15:18.905744",
+  "analyses": {
+    "market_trends": {
+      "analysis_type": "market_trends",
+      "time_period_days": 365,
+      "region": "all_regions",
+      "data_points": 208,
+      "trends": {
+        "median_price": {
+          "current_value": 410945.0,
+          "trend_slope": -9.649772233868354,
+          "trend_direction": "decreasing",
+          "correlation": -0.006865664481370441,
+          "p_value": 0.9215968342449639,
+          "is_significant": "False",
+          "percentage_change": 7.169867414956761
+        },
+        "average_days_on_market": {
+          "current_value": 63.0,
+          "trend_slope": -0.03439695316125522,
+          "trend_direction": "decreasing",
+          "correlation": -0.09978489005422873,
+          "p_value": 0.15156452647059532,
+          "is_significant": "False",
+          "percentage_change": -24.096385542168676
+        },
+        "inventory_count": {
+          "current_value": 110.0,
+          "trend_slope": -0.04587260565521434,
+          "trend_direction": "decreasing",
+          "correlation": -0.0604105094976564,
+          "p_value": 0.3860547211497053,
+          "is_significant": "False",
+          "percentage_change": 13.402061855670103
+        },
+        "price_per_sqft": {
+          "current_value": 252.0,
+          "trend_slope": 0.14903679463176034,
+          "trend_direction": "increasing",
+          "correlation": 0.12049705460884422,
+          "p_value": 0.08297434408550444,
+          "is_significant": "False",
+          "percentage_change": -36.84210526315789
+        },
+        "rental_yield": {
+          "current_value": 3.8533335975615137,
+          "trend_slope": 0.00037475542053448733,
+          "trend_direction": "increasing",
+          "correlation": 0.01566406487032215,
+          "p_value": 0.8223194602996269,
+          "is_significant": "False",
+          "percentage_change": -36.018588188956315
+        }
+      },
+      "regional_summary": {
+        "Downtown": {
+          "avg_median_price": 465674.51923076925,
+          "avg_days_on_market": 51.17307692307692,
+          "avg_inventory": 116.38461538461539
+        },
+        "Suburbs": {
+          "avg_median_price": 431274.1346153846,
+          "avg_days_on_market": 56.21153846153846,
+          "avg_inventory": 131.98076923076923
+        },
+        "Waterfront": {
+          "avg_median_price": 466280.48076923075,
+          "avg_days_on_market": 56.07692307692308,
+          "avg_inventory": 121.84615384615384
+        },
+        "Historic District": {
+          "avg_median_price": 440842.21153846156,
+          "avg_days_on_market": 48.88461538461539,
+          "avg_inventory": 137.69230769230768
+        }
+      },
+      "analysis_date": "2025-07-26T12:15:18.917614"
+    },
+    "property_performance": {
+      "analysis_type": "property_performance",
+      "property_type": "all_types",
+      "total_sales": 78,
+      "analysis_date": "2025-07-26T12:15:18.919017",
+      "overall_metrics": {
+        "avg_sale_price": 428971.21794871794,
+        "median_sale_price": 423295.0,
+        "avg_days_on_market": 87.94871794871794,
+        "median_days_on_market": 85.5,
+        "price_variance": 28383758974.58825,
+        "avg_price_per_sqft": 221.95420658131317
+      },
+      "performance_by_type": {
+        "Condo": {
+          "count": 21,
+          "avg_sale_price": 417055.1904761905,
+          "avg_days_on_market": 92.57142857142857,
+          "avg_price_per_sqft": 195.78467664887393
+        },
+        "Single Family": {
+          "count": 17,
+          "avg_sale_price": 424775.17647058825,
+          "avg_days_on_market": 72.52941176470588,
+          "avg_price_per_sqft": 205.78668566915354
+        },
+        "Multi-Family": {
+          "count": 26,
+          "avg_sale_price": 449334.5,
+          "avg_days_on_market": 92.6923076923077,
+          "avg_price_per_sqft": 250.13399620327206
+        },
+        "Townhouse": {
+          "count": 14,
+          "avg_sale_price": 414122.9285714286,
+          "avg_days_on_market": 90.92857142857143,
+          "avg_price_per_sqft": 228.50659614681413
+        }
+      },
+      "price_correlations": {
+        "bedrooms": -0.05082142330317529,
+        "bathrooms": -0.018370830018304276,
+        "square_feet": 0.16677710707254975
+      },
+      "monthly_trends": {
+        "1": {
+          "avg_sale_price": 468939.38,
+          "avg_days_on_market": 77.12,
+          "sales_count": 8
+        },
+        "2": {
+          "avg_sale_price": 324801.11,
+          "avg_days_on_market": 56.44,
+          "sales_count": 9
+        },
+        "3": {
+          "avg_sale_price": 442782.4,
+          "avg_days_on_market": 120.6,
+          "sales_count": 5
+        },
+        "4": {
+          "avg_sale_price": 450307.12,
+          "avg_days_on_market": 88.88,
+          "sales_count": 8
+        },
+        "5": {
+          "avg_sale_price": 444257.5,
+          "avg_days_on_market": 107.25,
+          "sales_count": 8
+        },
+        "6": {
+          "avg_sale_price": 430472.88,
+          "avg_days_on_market": 118.0,
+          "sales_count": 8
+        },
+        "7": {
+          "avg_sale_price": 403045.12,
+          "avg_days_on_market": 58.75,
+          "sales_count": 8
+        },
+        "8": {
+          "avg_sale_price": 440756.5,
+          "avg_days_on_market": 83.83,
+          "sales_count": 6
+        },
+        "9": {
+          "avg_sale_price": 526576.0,
+          "avg_days_on_market": 144.33,
+          "sales_count": 3
+        },
+        "10": {
+          "avg_sale_price": 468041.0,
+          "avg_days_on_market": 102.33,
+          "sales_count": 6
+        },
+        "11": {
+          "avg_sale_price": 446267.0,
+          "avg_days_on_market": 68.5,
+          "sales_count": 2
+        },
+        "12": {
+          "avg_sale_price": 403058.57,
+          "avg_days_on_market": 66.0,
+          "sales_count": 7
+        }
+      }
+    },
+    "rental_performance": {
+      "error": "No rental data available"
+    }
+  },
+  "executive_summary": {
+    "key_findings": [
+      "Property prices are declining"
+    ],
+    "recommendations": [
+      "Monitor market trends regularly",
+      "Adjust pricing strategies based on market conditions",
+      "Focus on properties with strong fundamentals"
+    ],
+    "market_outlook": "bearish"
+  }
+}
